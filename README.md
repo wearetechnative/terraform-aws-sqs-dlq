@@ -1,4 +1,4 @@
-# Terraform AWS [sqs-dlq] ![](https://img.shields.io/github/workflow/status/wearetechnative/terraform-aws-sqs-dlq/tflint.yaml?branch=main&style=plastic)
+# Terraform AWS [sqs-dlq] ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-sqs-dlq/tflint.yaml?branch=main&style=plastic)
 
 This module implements a SQS configured as deadletter queue.
 
